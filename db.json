@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "name": "guller",
+      "id": "1675440305075",
+      "author": "peyami safa",
+      "publisher": "otuken",
+      "isbn": "3245465",
+      "price": 61.79,
+      "categoryId": "3"
+    },
+    {
+      "name": "dasfdbghj",
+      "id": "1679994146380",
+      "author": "sdfsgdhfn",
+      "publisher": "sdfg",
+      "isbn": "23456",
+      "price": 23,
+      "categoryId": "3"
+    },
+    {
+      "name": "dfg",
+      "id": "1679994265280",
+      "author": "dfgb",
+      "publisher": "cdv",
+      "isbn": "23423456",
+      "price": 34,
+      "categoryId": "1679994233485"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3",
+      "name": "siir"
+    },
+    {
+      "id": "1679994225747",
+      "name": "roman"
+    },
+    {
+      "id": "1679994233485",
+      "name": "deneme"
+    },
+    {
+      "id": "1679994241727",
+      "name": "hikaye"
+    },
+    {
+      "id": "1679994368286",
+      "name": "deneme1"
+    }
+  ]
+}
